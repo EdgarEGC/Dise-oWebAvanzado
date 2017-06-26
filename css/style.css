@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+  .parallax-container {
+      height: 450px;
+    }
+ .color{
+ 	background-color: #1a237e; 
+ }
